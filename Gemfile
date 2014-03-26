@@ -15,6 +15,7 @@ gem 'sass-rails', '4.0.1'
 gem 'coffee-rails', '4.0.1'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '2.1.1'
+gem 'jquery-rails','3.0.4'
 gem 'turbolinks','1.1.1'
 gem 'jbuilder', '1.0.2'
 # Use CoffeeScript for .js.coffee assets and views
